@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm D4RKC0D3S</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt = "automation" width="600" src = "https://www.bestproxyreviews.com/wp-content/uploads/2022/01/Instagram-Automation-Guide.jpg"> 
+<img align="center" alt = "automation" width="600" src = "https://www.bestproxyreviews.com/wp-content/uploads/2022/01/Instagram-Automation-Guide.jpg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rkc0d3s&label=Profile%20views&color=0e75b6&style=flat" alt="d4rkc0d3s" /> </p>
 
