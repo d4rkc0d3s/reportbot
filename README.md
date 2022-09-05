@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm D4RKC0D3S</h1>
-<h3 align="center">A passionate developer from India</h3>
-https://img.shields.io/badge/Made%20In%20India-A%20Tool%20Designed%20In%20India-orange
+<h3 align="center">A passionate frontend developer from India</h3>
+https://www.bestproxyreviews.com/instagram-automation/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d4rkc0d3s&label=Profile%20views&color=0e75b6&style=flat" alt="d4rkc0d3s" /> </p>
 
